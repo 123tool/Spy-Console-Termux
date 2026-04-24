@@ -1,4 +1,4 @@
-#$ 🛡️ SPY CONSOLE TERMUX
+## 🛡️ SPY CONSOLE TERMUX
 
 Pusat kendali alat keamanan siber berbasis Termux yang menggabungkan berbagai tools pentesting dalam satu interface.
 
@@ -40,3 +40,8 @@ Pusat kendali alat keamanan siber berbasis Termux yang menggabungkan berbagai to
 Setiap kali ingin masuk ke dashboard SPY-E, cukup jalankan:
 ```bash
 ./spy.sh
+```
+
+⚠️ Disclaimer
+
+**​Alat ini dibuat untuk tujuan edukasi, audit keamanan mandiri, dan pengujian penetrasi legal. Penggunaan alat ini terhadap sistem milik orang lain tanpa izin adalah tindakan ilegal. Segala penyalahgunaan adalah tanggung jawab pengguna.**
