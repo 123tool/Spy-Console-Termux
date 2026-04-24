@@ -1,4 +1,4 @@
-# 🛡️ SPY-E ULTIMATE CONSOLE v2.0
+#$ 🛡️ SPY CONSOLE TERMUX
 
 Pusat kendali alat keamanan siber berbasis Termux yang menggabungkan berbagai tools pentesting dalam satu interface.
 
@@ -21,22 +21,22 @@ Pusat kendali alat keamanan siber berbasis Termux yang menggabungkan berbagai to
 2.  **Download Script:**
     Gunakan `nano` untuk membuat file:
     ```bash
-    nano spy_ultimate.sh
+    nano spy.sh
     ```
     (Paste kode script yang diberikan, simpan dengan `CTRL+O`, `Enter`, lalu `CTRL+X`)
 
 3.  **Beri Izin Eksekusi:**
     ```bash
-    chmod +x spy_ultimate.sh
+    chmod +x spy.sh
     ```
 
 4.  **Install Bahan (Wajib):**
     Jalankan script dan pilih **Opsi 1**:
     ```bash
-    ./spy_ultimate.sh
+    ./spy.sh
     ```
 
 ## 🚀 Cara Penggunaan
 Setiap kali ingin masuk ke dashboard SPY-E, cukup jalankan:
 ```bash
-./spy_ultimate.sh
+./spy.sh
